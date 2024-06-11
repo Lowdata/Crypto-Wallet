@@ -1,3 +1,8 @@
+![Screenshot 2024-06-11 153520](https://github.com/Lowdata/expo-app/assets/102520889/643e3494-28a6-4011-9383-7c3de9298ffa)
+![Screenshot 2024-06-11 153440](https://github.com/Lowdata/expo-app/assets/102520889/79dd914f-83f4-4246-9d47-f766cb3f7d5d)
+
+
+
 # Wallet App with Real-Time USDT and BTC Prices on Polygon Network and Bitcoin
 
 ## Overview
@@ -27,3 +32,6 @@ Welcome to our Wallet App, a decentralized wallet that provides real-time USDT a
    cd expo-app
    npm install
    npm start --web
+```
+
+
