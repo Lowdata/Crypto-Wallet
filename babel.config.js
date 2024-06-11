@@ -14,9 +14,9 @@ module.exports = function(api) {
       ],
       plugins: [
         ['rewrite-require', { aliases: { stream: 'stream-browserify' } }],
-        '@babel/plugin-transform-private-methods',
-        '@babel/plugin-proposal-class-properties',
+        ['@babel/plugin-transform-private-methods', { loose: true }],
+        ['@babel/plugin-proposal-class-properties', { loose: true }],
+        ['@babel/plugin-transform-private-property-in-object', { loose: true }]
       ],
     };
   };
-  
